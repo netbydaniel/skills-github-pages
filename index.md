@@ -1,4 +1,3 @@
-# WELCOME to my first page!
 
 ## About me
 I am Daniel and i am learning Github and skills-github-pages
