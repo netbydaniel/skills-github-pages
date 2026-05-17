@@ -1,4 +1,6 @@
-
+---
+title: "Welcome to my blog"
+---
 ## About me
 I am Daniel and i am learning Github and skills-github-pages
 
