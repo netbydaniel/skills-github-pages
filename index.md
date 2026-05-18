@@ -1,8 +1,8 @@
 ---
-title: "Welcome to my blog"
+title: "Daniel Castellanos"
 ---
 ## About me
-I am Daniel and i am learning Github and skills-github-pages
+I am learning Github and skills-github-pages
 
 ### lIST of skills
 - [x] Networking basics
